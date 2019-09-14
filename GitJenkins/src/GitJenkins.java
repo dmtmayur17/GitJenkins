@@ -1,5 +1,5 @@
 
-public class GitJenkins2 {
+public class GitJenkins {
 
 	public static void main(String[] args) {
 		for(int i=0; i<3; i++)
